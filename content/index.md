@@ -1,7 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Hub appunti
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-ciao mi piace questo sito. Guarda questo argomento [[argomento1]]
+Questa è la hub degli appunti!
+Segui l'indice a sinistra per muoverti tra gli argomenti.
