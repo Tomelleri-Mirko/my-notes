@@ -73,7 +73,10 @@ La copertura Wi-Fi può essere influenzata da ostacoli fisici. I materiali come 
 
 Il protocollo CSMA/CA, adottato nelle WLAN, evita le collisioni con un approccio proattivo:
 
-- Prima di trasmettere, il dispositivo verifica che il canale sia libero.                             Se il canale è occupato, il dispositivo attenderà un intervallo casuale prima di riprovare.                                                                                                                        Viene utilizzato il sistema RTS/CTS per coordinare la trasmissione e prevenire problemi.
+- Prima di trasmettere, il dispositivo verifica che il canale sia libero.  
+
+- Se il canale è occupato, il dispositivo attenderà un intervallo casuale prima di riprovare.                                                                                                                        
+- Viene utilizzato il sistema RTS/CTS per coordinare la trasmissione e prevenire problemi.
     
 
   
