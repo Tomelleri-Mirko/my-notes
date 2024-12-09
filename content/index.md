@@ -8,3 +8,10 @@ Segui l'indice a sinistra per muoverti tra gli argomenti.
 
 [[SRI]]
 
+[[Guida obsidian]]
+
+
+
+
+
+
