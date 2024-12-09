@@ -1,3 +1,0 @@
-- [[Installazione Fedora]]
-- [[Gestione del processore]]
-- 
